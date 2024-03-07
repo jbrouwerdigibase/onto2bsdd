@@ -1,0 +1,16 @@
+{
+  "name": "onto2bsdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jbrouwerdigibase/onto2bsdd.git",
+  "author": "jbrouwerdigibase <jbrouwer@digibase.nl>",
+  "license": "Apache-2.0 license",
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "csv-parser": "^3.0.0"
+  }
+}
